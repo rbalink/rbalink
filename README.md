@@ -1,6 +1,6 @@
 👋 Hi, I’m @rbalink
 
-just my private github profil for small projects
+just my private github profile for small projects
 
 <!---
 rbalink/rbalink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
